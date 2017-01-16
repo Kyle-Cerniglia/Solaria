@@ -1,0 +1,166 @@
+# depslib dependency file v1.0
+1478814218 source:c:\games\solaria 0.0.1\main.cpp
+	<iostream>
+	<fstream>
+	<cstdio>
+	<windows.h>
+	<sstream>
+	<vector>
+	<ctime>
+	"ship.h"
+	"print_ship_info.h"
+	"consolecmd.h"
+	"uni.h"
+	"interface.h"
+
+1477597574 source:c:\games\solaria 0.0.1\src\entities\entity.cpp
+	"entity.h"
+
+1478814155 source:c:\games\solaria 0.0.1\src\entities\ship.cpp
+	"ship.h"
+	<string>
+	<iostream>
+	<sstream>
+	<cstdio>
+	<string>
+
+1477946484 source:c:\games\solaria 0.0.1\src\modules\mod_armor.cpp
+	"mod_armor.h"
+	<string>
+
+1477946184 c:\games\solaria 0.0.1\include\modules\mod_armor.h
+	<string>
+
+1477946564 source:c:\games\solaria 0.0.1\src\modules\mod_capacitor.cpp
+	"mod_capacitor.h"
+
+1477946512 c:\games\solaria 0.0.1\include\modules\mod_capacitor.h
+	<string>
+
+1477946706 source:c:\games\solaria 0.0.1\src\modules\mod_hardpoint.cpp
+	"mod_hardpoint.h"
+
+1478032944 c:\games\solaria 0.0.1\include\modules\mod_hardpoint.h
+	<string>
+
+1478034852 source:c:\games\solaria 0.0.1\src\modules\mod_hyperdrive.cpp
+	"mod_hyperdrive.h"
+	<string>
+
+1477946748 c:\games\solaria 0.0.1\include\modules\mod_hyperdrive.h
+	<string>
+
+1477946898 source:c:\games\solaria 0.0.1\src\modules\mod_inertial.cpp
+	"mod_inertial.h"
+	<cmath>
+
+1478208052 c:\games\solaria 0.0.1\include\modules\mod_inertial.h
+	<string>
+
+1477946982 source:c:\games\solaria 0.0.1\src\modules\mod_lrsensor.cpp
+	"mod_lrsensor.h"
+
+1477946926 c:\games\solaria 0.0.1\include\modules\mod_lrsensor.h
+	<string>
+
+1477947790 source:c:\games\solaria 0.0.1\src\modules\mod_reactor.cpp
+	"mod_reactor.h"
+	<string>
+
+1477947722 c:\games\solaria 0.0.1\include\modules\mod_reactor.h
+	<string>
+
+1477947866 source:c:\games\solaria 0.0.1\src\modules\mod_shield.cpp
+	"mod_shield.h"
+	<string>
+
+1477947818 c:\games\solaria 0.0.1\include\modules\mod_shield.h
+	<string>
+
+1478034524 source:c:\games\solaria 0.0.1\src\modules\mod_srsensor.cpp
+	"mod_srsensor.h"
+	<string>
+
+1477947896 c:\games\solaria 0.0.1\include\modules\mod_srsensor.h
+	<string>
+
+1478032580 source:c:\games\solaria 0.0.1\src\modules\mod_thruster.cpp
+	"mod_thruster.h"
+
+1478032556 c:\games\solaria 0.0.1\include\modules\mod_thruster.h
+	<string>
+
+1477949326 c:\games\solaria 0.0.1\include\debug\print_ship_info.h
+	"ship.h"
+
+1478641088 source:c:\games\solaria 0.0.1\src\debug\print_ship_info.cpp
+	"print_ship_info.h"
+	"ship.h"
+	<string>
+	<iostream>
+
+1478814218 source:c:\games\solaria 0.0.1\src\debug\consolecmd.cpp
+	"consolecmd.h"
+	<string>
+	<iostream>
+	<sstream>
+	<vector>
+	<windows.h>
+	<cstdbool>
+	<ctime>
+	"ship.h"
+	"print_ship_info.h"
+	"uni.h"
+	"physics.h"
+	"interface.h"
+
+1478648586 c:\games\solaria 0.0.1\include\debug\consolecmd.h
+	<string>
+	<vector>
+	<cstdbool>
+	"ship.h"
+	"uni.h"
+
+1478656366 c:\games\solaria 0.0.1\include\uni.h
+	<vector>
+	<cstdbool>
+	"ship.h"
+
+1478734682 source:c:\games\solaria 0.0.1\src\uni.cpp
+	"uni.h"
+	<vector>
+	<cstdbool>
+
+1478656400 source:c:\games\solaria 0.0.1\src\read_keyboard.cpp
+	"interface.h"
+	<uni.h>
+	<windows.h>
+
+1478290444 c:\games\solaria 0.0.1\include\interface.h
+	"uni.h"
+
+1478722544 source:c:\games\solaria 0.0.1\src\physics\lin_accel.cpp
+	"physics.h"
+	<cmath>
+	<iostream>
+	"ship.h"
+	"uni.h"
+
+1478804283 c:\games\solaria 0.0.1\include\physics\physics.h
+	"ship.h"
+	"uni.h"
+
+1478719716 source:c:\games\solaria 0.0.1\src\physics\lin_move.cpp
+	"physics.h"
+
+1478814113 source:c:\games\solaria 0.0.1\src\physics\rot_accel.cpp
+	"physics.h"
+	<cmath>
+	"ship.h"
+	"uni.h"
+
+1478813866 source:c:\games\solaria 0.0.1\src\physics\rot_move.cpp
+	"physics.h"
+	<cmath>
+	<iostream>
+
